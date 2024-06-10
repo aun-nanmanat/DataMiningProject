@@ -1,0 +1,10 @@
+Imputation Technique,Computational Time of Impputation Process,Model,Accuracy,Precision,Recall,F1-Score,ROC/AUC,Computational Time for Model (second)
+Median,0.12,Random Forest (Original),85.59%,76.73%,50.50%,60.91%,73.06%,~40.83
+Mode,0.17,Random Forest (Original),85.51%,76.73%,49.99%,60.54%,72.83%,~40.18
+Mean,0.12,Random Forest (Original),85.59%,76.75%,50.47%,60.90%,73.05%,~40.59
+Mice,10.06,Random Forest (Scaled),88.34%,82.04%,60.90%,69.91%,78.54%,~53.12
+KNN,77.42,Random Forest (Scaled),85.42%,76.39%,49.82%,60.31%,72.71%,~46.11
+EM,11.03,Random Forest (Scaled),88.37%,82.14%,60.95%,69.97%,78.58%,~53.17
+Regression,10.47,Random Forest (Original),88.33%,82.39%,60.44%,69.73%,78.37%,~53.42
+Interpolation,10.41,Random Forest (Scaled),85.58%,77.07%,50.02%,60.67%,72.88%,~5252.95
+Listwise deletion,0.02,Random Forest (Scaled),85.69%,76.40%,50.74%,60.98%,73.15%,~52.11
