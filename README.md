@@ -9,15 +9,6 @@ Data Imputation Techniques, with a focus on MICE (Multiple Imputation by Chained
 ### Tools: 
 Python (Pandas, Scikit-learn, MICE), R (tidyverse, caret).
 
-### Key Findings:
-- **Best Imputation Technique and Model:** MICE with Random Forest (Scaled) achieved top performance with 88.34% accuracy, 82.04% precision, and a ROC/AUC of 78.54%.
-
-- **Cross-Validation:** Models with and without cross-validation showed similar stability and generalization capabilities.
-
-- **Learning Curve Analysis:** Model performance improved significantly with more training data but showed diminishing returns beyond a certain point.
-
-- **Overfitting:** Optimal model complexity was achieved with a maximum depth of 6 to 8 for Random Forest, balancing training and testing performance.
-
 ### Impact: 
 Enhanced the reliability of rain prediction models by effectively handling missing values, contributing to more accurate weather forecasting.
 
