@@ -1,4 +1,4 @@
-# Comparative Analysis of Imputation Techniques in Australian Rainfall Data
+# Data Mining Project: Comparative Analysis of Imputation Techniques in Australian Rainfall Data
 ## Project Overview 
 ### Objective: 
 Address the challenges of missing values in real-world datasets and evaluate the performance of various imputation techniques and machine learning models to improve the accuracy of predictive models for weather forecasting.
