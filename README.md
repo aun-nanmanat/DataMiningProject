@@ -18,7 +18,8 @@ Python (Pandas, Scikit-learn, MICE), R (tidyverse, caret).
 
 - **Overfitting:** Optimal model complexity was achieved with a maximum depth of 6 to 8 for Random Forest, balancing training and testing performance.
 
-### Impact: Enhanced the reliability of rain prediction models by effectively handling missing values, contributing to more accurate weather forecasting.
+### Impact: 
+Enhanced the reliability of rain prediction models by effectively handling missing values, contributing to more accurate weather forecasting.
 
 ## Executive Summary
 Generally, it is undeniable that there are persistent challenges of missing values in real-world datasets, posing a significant threat to the integrity of analytical outcomes and the accuracy of predictive models. Therefore, our primary goal is to tackle these challenges of missing values in the datasets. This executive summary provides a comprehensive overview of our project “Comparative Analysis of Imputation Techniques in Australian Rainfall Data.” By employing systematic exploration, data preprocessing, imputation techniques, statistical methods, and machine learning models, our study seeks to advance our understanding of data preprocessing and missing value handling, explore the nuances of various imputation methodologies, and develop robust frameworks for assessing and interpreting the efficacy of different imputation strategies. Additionally, we expect to enhance the quality and reliability of weather predictions.
